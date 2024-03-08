@@ -1,3 +1,0 @@
-D:/projects/cpp/binarytree/cmake-build-debug/CMakeFiles/binarytree.dir
-D:/projects/cpp/binarytree/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/projects/cpp/binarytree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
