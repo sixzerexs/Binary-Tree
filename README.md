@@ -1,2 +1,2 @@
-# Binary-Tree
+# Binary-Search-Tree
 Binary search tree
